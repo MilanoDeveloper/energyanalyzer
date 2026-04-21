@@ -42,6 +42,11 @@ Pipeline de CI/CD:
 
 ![img.png](img.png)
 
+<img width="1789" height="881" alt="image" src="https://github.com/user-attachments/assets/c092dbce-aae9-4bcb-b3cd-6162a6833a30" />
+
+<img width="1468" height="518" alt="image" src="https://github.com/user-attachments/assets/6e289dcb-52b8-49aa-bf83-6d89f202fac6" />
+
+
 Abaixo, link do job com sucesso no github actions
 https://github.com/MilanoDeveloper/energyanalyzer/actions/runs/24741767550
 
@@ -53,41 +58,3 @@ https://github.com/MilanoDeveloper/energyanalyzer/actions/runs/24741767550
 * Flyway
 * Docker & Docker Composeo.
 * GitHub Actions
-
-
-
-4) Checklist de Entrega (obrigatório)
-
-Preencha e anexe esse checklist no final do seu PDF ou README:
-
-Item
-
-OK
-
-Projeto compactado em .ZIP com estrutura organizada
-
-OK
-
-Dockerfile funcional
-
-OK
-
-docker-compose.yml ou arquivos Kubernetes
-
-OK
-
-Pipeline com etapas de build, teste e deploy
-
-OK
-
-README.md com instruções e prints
-
-OK
-
-Documentação técnica com evidências (PDF ou PPT)
-
-OK
-
-Deploy realizado nos ambientes staging e produção
-
-OK
