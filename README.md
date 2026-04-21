@@ -42,6 +42,11 @@ Pipeline de CI/CD:
 
 ![img.png](img.png)
 
+<img width="1789" height="881" alt="image" src="https://github.com/user-attachments/assets/c092dbce-aae9-4bcb-b3cd-6162a6833a30" />
+
+<img width="1468" height="518" alt="image" src="https://github.com/user-attachments/assets/6e289dcb-52b8-49aa-bf83-6d89f202fac6" />
+
+
 Abaixo, link do job com sucesso no github actions
 https://github.com/MilanoDeveloper/energyanalyzer/actions/runs/24741767550
 
