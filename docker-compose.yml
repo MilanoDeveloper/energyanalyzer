@@ -1,0 +1,14 @@
+services:
+  energy-app:
+    build: .
+    container_name: energy-analyzer-container
+    ports:
+      - "${APP_PORT:-8080}:8080"
+    env_file:
+      - dev.env
+    networks:
+      - energy-net
+
+networks:
+  energy-net:
+    driver: bridge
