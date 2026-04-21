@@ -20,7 +20,7 @@ jobs:
           cache: maven
 
       - name: Build and Test
-        run: ./mvnw clean verify -DskipTests
+        run: ./mvnw clean verify
 
   deploy-staging:
     needs: build-and-test
