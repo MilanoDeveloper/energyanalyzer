@@ -49,9 +49,9 @@ https://github.com/MilanoDeveloper/energyanalyzer/actions/runs/24741767550
 
 ## Tecnologias utilizadas:
 
--Java 21: Versão LTS
--Spring Boot 3.5.7
--Oracle Database
--Flyway
--Docker & Docker Composeo.
--GitHub Actions
+* Java 21: Versão LTS
+* Spring Boot 3.5.7
+* Oracle Database
+* Flyway
+* Docker & Docker Composeo.
+* GitHub Actions
