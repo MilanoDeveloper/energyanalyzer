@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.http.MediaType;
 import org.springframework.security.test.context.support.WithMockUser;
 import org.springframework.test.web.servlet.MockMvc;
 
@@ -23,7 +22,7 @@ class EnergyControllerTest {
     @WithMockUser(username = "admin")
     @DisplayName("Deve listar todos os registros de consumo sem sucesso")
     void shouldListAllConsumptions() throws Exception {
-        mockMvc.perform(get("/api/energia")) // Ajuste para o seu endpoint real
+        mockMvc.perform(get("/api/energia"))
                 .andExpect(status().is5xxServerError());
     }
 
