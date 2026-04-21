@@ -3,8 +3,6 @@
 ## Como executar localmente com Docker
 A aplicação foi estruturada para rodar de forma isolada em containers, garantindo que todas as dependências (como o driver Oracle) estejam presentes.
 
-Configuração de variáveis: Certifique-se de que o arquivo dev.env está na raiz do projeto. Ele contém as credenciais de acesso ao Oracle da FIAP.
-
 Build e Execução: No terminal, execute o comando:
 
 Bash
