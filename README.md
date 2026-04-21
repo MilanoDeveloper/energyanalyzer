@@ -53,3 +53,41 @@ https://github.com/MilanoDeveloper/energyanalyzer/actions/runs/24741767550
 * Flyway
 * Docker & Docker Composeo.
 * GitHub Actions
+
+
+
+4) Checklist de Entrega (obrigatório)
+
+Preencha e anexe esse checklist no final do seu PDF ou README:
+
+Item
+
+OK
+
+Projeto compactado em .ZIP com estrutura organizada
+
+OK
+
+Dockerfile funcional
+
+OK
+
+docker-compose.yml ou arquivos Kubernetes
+
+OK
+
+Pipeline com etapas de build, teste e deploy
+
+OK
+
+README.md com instruções e prints
+
+OK
+
+Documentação técnica com evidências (PDF ou PPT)
+
+OK
+
+Deploy realizado nos ambientes staging e produção
+
+OK
